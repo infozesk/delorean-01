@@ -5,8 +5,9 @@ Une surface de verre pour ne pas se faire décoiffer.
 ## Caratéristiques
 
 - surface: 2m2
-- transparence: 97%
+- transparence: 94%
 - nombre: 1
+- filtre anti UVB
 
 ## Fabricant
 
