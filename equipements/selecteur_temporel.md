@@ -13,4 +13,4 @@ Emmett Brown
 
 ## Bug connus
 
-- La date de destination "saute", provoquant des voyages à des dates aléatoires.
+- [FIXED] La date de destination "saute", provoquant des voyages à des dates aléatoires.
